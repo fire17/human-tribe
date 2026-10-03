@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d">
+  <title id="t">השבט האנושי — The Human Tribe</title>
+  <desc id="d">סוכה עם סכך של עלים, שני אנשים בתוכה ונר דולק ביניהם</desc>
+  <!-- schach: five leaves forming the sukkah roof -->
+  <g fill="#2F5D46">
+    <path d="M12 34c7-9 17-9 24 0c-7 9-17 9-24 0z"/>
+    <path d="M30 30c7-8 16-8 22 0c-6 8-15 8-22 0z" opacity=".85"/>
+    <path d="M48 34c6-9 18-9 24 0c-6 9-18 9-24 0z"/>
+    <path d="M68 30c6-8 15-8 22 0c-7 8-16 8-22 0z" opacity=".85"/>
+    <path d="M84 34c7-9 17-9 24 0c-7 9-17 9-24 0z"/>
+  </g>
+  <!-- posts -->
+  <g stroke="#A84B2A" stroke-width="7" stroke-linecap="round">
+    <line x1="20" y1="44" x2="20" y2="102"/>
+    <line x1="100" y1="44" x2="100" y2="102"/>
+  </g>
+  <!-- lamp / heart between them -->
+  <circle cx="60" cy="52" r="4.5" fill="#E3A93B"/>
+  <!-- two people, side by side -->
+  <g fill="#1E2A23">
+    <circle cx="45" cy="68" r="8"/>
+    <circle cx="75" cy="68" r="8"/>
+    <path d="M32 102c0-14 5.5-22 13-22s13 8 13 22z"/>
+    <path d="M62 102c0-14 5.5-22 13-22s13 8 13 22z"/>
+  </g>
+</svg>

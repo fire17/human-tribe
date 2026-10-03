@@ -1,0 +1,2525 @@
+{
+ "schema": "resources.schema.json",
+ "schema_version": 1,
+ "sample": false,
+ "note_he": "מקורות עזרה אמיתיים מתוך resources/resources.json (מחקר 03.10.2026). לכל רשומה יש קישור למקור ומצב אימות. \"אומת\" = נקרא היום באתר הרשמי · \"אומת (צילום ארכיון)\" = נקרא מצילום Wayback בתאריך שמצוין · \"מקור ישן\" / \"לא אומת\" = לבדוק לפני הפניה. פרטים משתנים: לוודא בטלפון לפני שמפנים אדם.",
+ "updated": "2026-10-03",
+ "generated_from": "resources/resources.json",
+ "resources": [
+  {
+   "id": "tlv-homeless-unit",
+   "name_he": "היחידה לדרי רחוב — עיריית תל אביב-יפו",
+   "category": [
+    "shelter",
+    "addiction",
+    "documents",
+    "benefits"
+   ],
+   "primary": [
+    "shelter",
+    "benefits"
+   ],
+   "offers_he": "איתור וחילוץ מהרחוב (בדגש על מי שבסיכון), מתן מחסה — קורת גג, מזון ופינה חמה, הפנייה לגמילה, סיוע במיצוי זכויות, טיפול פסיכוסוציאלי מקיף וארוך טווח. זו הכתובת הראשונה לכל דר/ת רחוב בעיר — היא מפנה לגגונים, מאשרת סטטוס 'דר רחוב' (נדרש לסיוע בשכר דירה) ומלווה תוכנית שיקום.",
+   "eligibility_he": "דרי ודרות רחוב מעל גיל 18 השוהים בתחומי תל אביב-יפו. לפי כל-זכות והאגודה לזכויות האזרח: היחידה חייבת לסייע לכל דר רחוב בשטח הרשות בלי קשר לכתובת בתעודת הזהות, ואסור לה להעביר אדם לרשות אחרת.",
+   "contact": {
+    "phone": "03-7246170 (אתר העירייה, 03.10.2026) · 03-7246172 (משרד הרווחה, data.gov.il, 15.01.2025)",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Homeless.aspx",
+    "address": "יפת 34, יפו",
+    "hours": "א' 11:00–16:00; ג', ה' 08:30–13:00 (לפי אתר העירייה)"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Homeless.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "רווחה עירונית — תל אביב-יפו",
+   "needs_he": [
+    "מחסה",
+    "מיצוי זכויות",
+    "גמילה",
+    "טיפול סוציאלי",
+    "תעודות",
+    "דיור"
+   ],
+   "notes_he": "שני מספרים סמוכים ממקורות שונים: 03-7246170 מופיע בתיבת 'פרטי קשר' באתר העירייה (נבדק בדפדפן אמיתי 03.10.2026, יחד עם הפקס, הכתובת יפת 34 והשעות); 03-7246172 מופיע במאגר יחידות דרי הרחוב של משרד הרווחה (data.gov.il, עודכן 15.01.2025; הפקס זהה). לוודא בשיחה ביום א' 4.10 ולעדכן. העירייה הודיעה על חופשת סוכות ביחידות העירייה 25.9–3.10.2026 — לצפות לחזרה לשגרה מיום א' 4.10. נער/ה במצב סיכון: עמותת עלם (ראו להלן).",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Homeless.aspx",
+     "kind": "direct",
+     "note": "תיבת 'פרטי קשר' נטענת דינמית — נקראה בדפדפן אמיתי (agent-browser) ב-03.10.2026: טלפון 03-7246170, פקס 03-7240181, יפת 34, א' 11:00–16:00, ג', ה' 08:30–13:00"
+    },
+    {
+     "url": "https://data.gov.il/dataset/molsa-homeless-units",
+     "kind": "api",
+     "note": "מאגר 'דרי רחוב - יחידות' של משרד הרווחה (עודכן 15.01.2025): יחידת תל אביב, טל' 03-7246172, פקס 03-7240181"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "tlv-addictions-homeless-director",
+   "name_he": "מינהל תחום התמכרויות, דרי רחוב ושיקום האסיר — עיריית תל אביב-יפו",
+   "category": [
+    "shelter",
+    "addiction",
+    "benefits"
+   ],
+   "primary": [
+    "shelter",
+    "benefits"
+   ],
+   "offers_he": "הגורם העירוני המנהל את תחומי ההתמכרויות, דרי הרחוב ושיקום האסיר — כתובת להסלמה/תיאום כשהיחידה לא זמינה.",
+   "eligibility_he": "פנייה מקצועית/ציבורית.",
+   "contact": {
+    "phone": "03-7240967",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+    "address": "יגאל אלון 98, בניין אלקטרה"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "רווחה עירונית — תל אביב-יפו",
+   "needs_he": [
+    "התמכרויות",
+    "דרי רחוב",
+    "אסירים משתחררים"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "tlv-social-departments",
+   "name_he": "המחלקות לשירותים חברתיים (לשכות רווחה) — תל אביב-יפו",
+   "category": [
+    "shelter",
+    "mental",
+    "benefits",
+    "family"
+   ],
+   "primary": [
+    "shelter",
+    "benefits"
+   ],
+   "offers_he": "תשע מחלקות אזוריות: ליווי סוציאלי, טיפול במשברים, הפניה לשירותים. רלוונטי במיוחד למי שאינו מוגדר 'דר רחוב' (למשל אחרי פינוי מדירה או שחרור ממאסר) — אלה מטופלים בלשכת הרווחה הרגילה.",
+   "eligibility_he": "תושבי העיר לפי אזור מגורים. אזור כיכר הבימה הוא ככל הנראה 'לב העיר' (השיוך המדויק לא אומת).",
+   "contact": {
+    "phone": "מחלקת לב העיר למשפחה: 03-7240491/0 (ארלוזורוב 95); אגף מרכז צפון: 03-7240455",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/SocialServices.aspx",
+    "hours": "א', ד' 08:30–19:00; ב', ג', ה' 08:30–15:30 — מומלץ לתאם מראש"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/SocialServices.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "רווחה עירונית — תל אביב-יפו",
+   "needs_he": [
+    "עובד/ת סוציאלי/ת",
+    "מיצוי זכויות",
+    "משבר",
+    "משפחה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/SocialServices.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "tlv-106",
+   "name_he": "מוקד 106 פלוס — עיריית תל אביב-יפו",
+   "category": [
+    "shelter",
+    "benefits"
+   ],
+   "primary": [
+    "shelter",
+    "benefits"
+   ],
+   "offers_he": "מוקד עירוני 24/7 — אפשר לדווח בו על אדם ברחוב שזקוק לעזרה ולבקש הפניה לגורם העירוני המתאים.",
+   "eligibility_he": "כל פונה.",
+   "contact": {
+    "phone": "106; 03-5238888 (באתר מופיע גם 9106*)",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/CrisisCare.aspx",
+    "hours": "24 שעות ביממה"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/CrisisCare.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "רווחה עירונית — תל אביב-יפו",
+   "needs_he": [
+    "דיווח",
+    "חירום עירוני",
+    "פנייה ראשונית"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/CrisisCare.aspx",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "tlv-rights-centers",
+   "name_he": "מרכזי מיצוי זכויות — עיריית תל אביב-יפו",
+   "category": [
+    "shelter",
+    "documents",
+    "benefits",
+    "debts"
+   ],
+   "primary": [
+    "benefits"
+   ],
+   "offers_he": "ייעוץ, הכוונה וליווי אקטיבי למימוש זכויות: ביטוח לאומי, הוצאה לפועל, דיור, זכויות מוניציפליות, ניסוח מכתבים ומילוי טפסים — חינם, על ידי עובדים ומתנדבים מקצועיים, עד סיום הטיפול.",
+   "eligibility_he": "תושבי ותושבות תל אביב-יפו. קבלה בתיאום מראש.",
+   "contact": {
+    "phone": "אגף מרכז צפון: 03-7258615 (בן סרוק 11); אגף דרום: 052-6190357 (נועם 7); אגף מזרח: 03-7246126 (לח\"י 66)",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+    "hours": "בתיאום מראש; אפשר להשאיר הודעה בתא קולי"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "קצבאות ומיצוי זכויות",
+   "needs_he": [
+    "ביטוח לאומי",
+    "הוצאה לפועל",
+    "דיור",
+    "טפסים",
+    "מכתבים"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "tlv-shil",
+   "name_he": "שי\"ל — שירות ייעוץ לאזרח, תל אביב",
+   "category": [
+    "benefits",
+    "debts",
+    "legal",
+    "work"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "ייעוץ חינם ע\"י מתנדבים (עורכי דין, רואי חשבון ועוד) ביחסי עבודה, ביטוח לאומי, צרכנות, תביעות קטנות, נזקי גוף, חוזים, סכסוכי שכנים והוצאה לפועל.",
+   "eligibility_he": "כל פונה; השירות חינם וחסוי.",
+   "contact": {
+    "phone": "03-7258468 / 03-7258465",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+    "address": "בן סרוק 11, קומה 14",
+    "hours": "מענה טלפוני א', ג', ד' 09:00–13:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "ייעוץ משפטי ראשוני",
+    "ביטוח לאומי",
+    "הוצאה לפועל",
+    "תביעות קטנות",
+    "יחסי עבודה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Rights.aspx",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "lasova-gagon",
+   "name_he": "גגונים לדרי ודרות רחוב — עמותת לשובע",
+   "category": [
+    "shelter",
+    "food",
+    "clothes",
+    "health"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "כ-15 מסגרות 'גגון' בתל אביב-יפו, כ-200 לנים בכל לילה, נפרד לנשים ולגברים: מיטה נקייה, מקלחת חמה, ארוחות, בגדים, לוקרים אישיים נעולים, הפניה לטיפול רפואי. אינטייק עם צוות הגגון והעו\"ס של העירייה, תחילת תהליך שיקום.",
+   "eligibility_he": "דרי ודרות רחוב (18+). יש גגונים נפרדים למשתמשים פעילים ולנקיים, ולנשים.",
+   "contact": {
+    "phone": "050-6879703 — תיאום הגעה (מנהל הגגונים); משרד העמותה 03-3731661",
+    "url": "https://www.lasova.org.il/homeless-shelters",
+    "hours": "לפי העמותה: מענה 24/7. לפי משרד הרווחה: גגון פועל 17:00–09:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.lasova.org.il/homeless-shelters",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מחסה ולינה",
+   "needs_he": [
+    "לינה",
+    "מקלחת",
+    "ארוחות",
+    "ביגוד",
+    "לוקר",
+    "הפניה רפואית"
+   ],
+   "notes_he": "כתובות הגגונים מופיעות במאגר הפתוח של משרד הרווחה; במכוון לא הועתקו לכאן (כבוד ובטיחות, בעיקר בגגון הנשים) — הגעה בתיאום טלפוני.",
+   "sources": [
+    {
+     "url": "https://www.lasova.org.il/homeless-shelters",
+     "kind": "direct"
+    },
+    {
+     "url": "https://data.gov.il/dataset/outerhomes_homeless",
+     "kind": "api",
+     "note": "מאגר 'מרכזי שירות לדרי רחוב' של משרד הרווחה (2021): 3 גגוני לשובע בת\"א — גברים משתמשים, נשים נקיות, גברים נקיים; אותו טלפון"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "molsa-gagonim",
+   "name_he": "גגונים לדרי רחוב — מסגרת חירום של משרד הרווחה",
+   "category": [
+    "shelter",
+    "food",
+    "clothes"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "מחסה הפועל 17:00–09:00 ומספק מענה חירום, הגנה והחזקה לדרי רחוב שאותרו ברחוב או שהגיעו בעצמם: לינה, מזון, מקלחת חמה וכלי רחצה, שירותי כביסה, ביגוד והנעלה. אפשר לשהות עד שנה.",
+   "eligibility_he": "מי שעונה להגדרת דר רחוב. הפנייה דרך היחידה לדרי רחוב ברשות המקומית.",
+   "contact": {
+    "phone": "דרך היחידה לדרי רחוב (03-7246170) או מוקד הרווחה 118",
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-homeless-emergency-shelters?chapterIndex=1"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מחסה ולינה",
+   "needs_he": [
+    "לינה",
+    "מזון",
+    "מקלחת",
+    "כביסה",
+    "ביגוד"
+   ],
+   "notes_he": "אתר gov.il חוסם גישה אוטומטית; המידע נקרא מכל-זכות שמצטט את מדריך משרד הרווחה.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "molsa-emergency-shelters",
+   "name_he": "מקלטי חירום לדרי רחוב — משרד הרווחה",
+   "category": [
+    "shelter",
+    "health",
+    "addiction"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "מסגרת לדרי רחוב במצבים חמורים עד כדי סכנת חיים, או ביציאה מבית חולים אחרי מחלה, פציעה או גמילה: אבחון רפואי, נפשי ופסיכו-סוציאלי, סיוע במימוש זכויות מול גופי ממשלה, בניית תוכנית טיפול והמשך גמילה. שהייה עד חצי שנה, אפשרות הארכה לשנה.",
+   "eligibility_he": "דרי רחוב במצב חמור; הפניה דרך היחידה לדרי רחוב.",
+   "contact": {
+    "phone": "דרך היחידה לדרי רחוב",
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-homeless-emergency-shelters?chapterIndex=2"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מחסה ולינה",
+   "needs_he": [
+    "מצב חמור",
+    "יציאה מבית חולים",
+    "אחרי גמילה",
+    "אבחון"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "molsa-rehab-hostel",
+   "name_he": "הוסטל טיפולי-שיקומי לדרי רחוב — משרד הרווחה",
+   "category": [
+    "shelter"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "הוסטל לדרי רחוב שנמצאו מתאימים להליך טיפולי-שיקומי אינטנסיבי; סיוע בתחומים שונים במהלך השהות (שנה עד שנתיים וחצי), בהשתתפות עצמית.",
+   "eligibility_he": "דרי רחוב שמסוגלים להשתלב בתהליך שיקומי; מי שיש לו רקע של התמכרות — רק אחרי גמילה פיזית.",
+   "contact": {
+    "phone": "דרך היחידה לדרי רחוב",
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-homeless-housing-and-rehabilitation"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "דיור ושיקום",
+   "needs_he": [
+    "שיקום",
+    "דיור זמני",
+    "ליווי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "moch-rent-assistance-homeless",
+   "name_he": "סיוע בשכר דירה לדרי רחוב — משרד הבינוי והשיכון",
+   "category": [
+    "shelter",
+    "benefits"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "השתתפות בשכר דירה בשוק הפרטי עד 48 חודשים (סכומים לפי טבלת המשרד). הכסף מועבר לבעל הדירה; בהתחלה ל-6 חודשים (רטרואקטיבית מיום הבקשה), ההמשך מותנה בדיווח העו\"ס על שיתוף פעולה בשיקום.",
+   "eligibility_he": "מי שעונה להגדרת דר רחוב, אין לו זכויות בדירה ואינו חתום על חוזה בדיור ציבורי, ונמצא בקשר רציף עם היחידה לדרי רחוב ומשתתף בתוכנית שיקום. דרוש אישור מהיחידה + ת\"ז / תמצית רישום / אישור קצבה מביטוח לאומי. עלות הרשמה 40 ₪.",
+   "contact": {
+    "phone": "הגשה בסניפי חברות ההרשמה לסיוע בדיור",
+    "url": "https://www.gov.il/he/service/rental_assistance_for_homeless"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "דיור ושיקום",
+   "needs_he": [
+    "שכר דירה",
+    "דירה בשוק הפרטי",
+    "יציאה מהרחוב"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517215017/https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517215017/https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "lasova-community-housing",
+   "name_he": "פרויקטי דיור בקהילה ופרויקט 'שקד' — עמותת לשובע",
+   "category": [
+    "shelter"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "דירות רגילות בקהילה שהעמותה שוכרת לדרי רחוב בשלבי שיקום מתקדמים, ודיור קבע לדרי רחוב כרוניים ובעלי מוגבלויות, בסיוע לוגיסטי ומעטפת. 'שקד' — פרויקט משותף לעירייה, משרד הרווחה, ביטוח לאומי ולשובע עבור מבקשי מקלט ומהגרי עבודה שאינם ברי הרחקה.",
+   "eligibility_he": "לפי הפניה וליווי של הגורמים המטפלים (לא פורטו תנאים).",
+   "contact": {
+    "phone": "03-3731661 (משרד העמותה)",
+    "url": "https://www.lasova.org.il/homeless-shelters",
+    "address": "משרד: אליזבת ברגנר 6, תל אביב-יפו"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.lasova.org.il/homeless-shelters",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "דיור ושיקום",
+   "needs_he": [
+    "דיור קבע",
+    "דיור מעבר",
+    "שיקום מתקדם"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.lasova.org.il/homeless-shelters",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.lasova.org.il/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "lasova-restaurant",
+   "name_he": "מסעדת לשובע תל אביב (ארוחה חמה) + כרטיס לשובע",
+   "category": [
+    "food"
+   ],
+   "primary": [
+    "food"
+   ],
+   "offers_he": "ארוחת צהריים חמה, מזינה וכשרה לכל אדם, בלי שאלות ובלי קריטריונים; אפשר לאכול ללא הגבלה. תשלום סמלי של שקל אחד — 'זכות ולא חובה'. גם ארוחות ערב שבת. בנוסף העמותה מפעילה 'כרטיס לשובע' לרכישת מזון לנזקקים שמצבם נבדק.",
+   "eligibility_he": "כל מי שידו אינה משגת — ללא תנאים.",
+   "contact": {
+    "phone": "03-3731661 (משרד העמותה)",
+    "url": "https://www.lasova.org.il/lasova-restaurants",
+    "address": "בית לשובע, צ'לנוב 18, תל אביב-יפו (דרום העיר, ליד התחנה המרכזית)",
+    "hours": "א'–ה' 10:00–14:00; שישי לסירוגין 09:30–13:00; ארוחות ערב שבת 17:30–20:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.lasova.org.il/lasova-restaurants",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מזון",
+   "needs_he": [
+    "ארוחה חמה",
+    "מזון",
+    "ארוחת שבת"
+   ],
+   "notes_he": "פרטי 'כרטיס לשובע' (שווי 250 ₪ לחודש) מופיעים רק בכל-זכות — לאמת מול העמותה.",
+   "sources": [
+    {
+     "url": "https://www.lasova.org.il/lasova-restaurants",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.lasova.org.il/projects",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/לשובע",
+     "kind": "wayback",
+     "snapshot": "2025-12-15",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20251215202851/https://www.kolzchut.org.il/he/לשובע"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "latet",
+   "name_he": "לתת — סיוע הומניטרי ישראלי (בנק מזון ארצי)",
+   "category": [
+    "food"
+   ],
+   "primary": [
+    "food"
+   ],
+   "offers_he": "ארגון גג ובנק מזון ארצי הפועל עם רשת עמותות שותפות (כ-150 לפי כל-זכות) לחלוקת מזון ולהצלת מזון; תוכנית 'סיוע לחיים' לניצולי שואה. הסיוע לפרטים עובר בדרך כלל דרך עמותות מקומיות שותפות.",
+   "eligibility_he": "אוכלוסיות במצוקה, בעיקר דרך עמותה שותפה.",
+   "contact": {
+    "phone": "03-6833388; *6833",
+    "url": "https://www.latet.org.il/",
+    "address": "המסגר 44, תל אביב (לפי כל-זכות)"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.latet.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מזון",
+   "needs_he": [
+    "סלי מזון",
+    "ביטחון תזונתי",
+    "שותפות לעמותות"
+   ],
+   "notes_he": "רלוונטי לשבט האנושי כשותף לאספקת מזון/סלים לפרויקט הסוכות.",
+   "sources": [
+    {
+     "url": "https://www.latet.org.il/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/לתת",
+     "kind": "wayback",
+     "snapshot": "2026-01-25",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260125125936/https://www.kolzchut.org.il/he/לתת"
+    }
+   ]
+  },
+  {
+   "id": "leket",
+   "name_he": "לקט ישראל — הצלת עודפי מזון",
+   "category": [
+    "food"
+   ],
+   "primary": [
+    "food"
+   ],
+   "offers_he": "מצילה עודפי מזון איכותיים ומעבירה אותם לנזקקים דרך עמותות שותפות; לעמותות יש מסלול 'בקשת הצטרפות עמותה כחבר לקט'.",
+   "eligibility_he": "עמותות/ארגונים (לא סיוע ישיר לפרטים).",
+   "contact": {
+    "url": "https://www.leket.org/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.leket.org/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מזון",
+   "needs_he": [
+    "עודפי מזון",
+    "שותפות לעמותות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.leket.org/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "pitchon-lev",
+   "name_he": "פתחון לב",
+   "category": [
+    "food",
+    "clothes",
+    "benefits"
+   ],
+   "primary": [
+    "food"
+   ],
+   "offers_he": "חלוקת מזון לנזקקים במרכזי סיוע, סלי מזון בחירום, 'ניידת מיצוי הזכויות', איסוף ותרומת ביגוד.",
+   "eligibility_he": "משפחות ויחידים בקושי כלכלי (תנאים לא פורטו באתר).",
+   "contact": {
+    "phone": "03-5576000 (בירורים)",
+    "url": "https://www.pitchonlev.org.il/",
+    "address": "הנהלה: החומה 12, ראשון לציון"
+   },
+   "area": "ארצי (הנהלה בראשון לציון)",
+   "source_url": "https://www.pitchonlev.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מזון",
+   "needs_he": [
+    "סלי מזון",
+    "ביגוד",
+    "מיצוי זכויות"
+   ],
+   "notes_he": "לא אומת אם קיים מרכז חלוקה בתל אביב.",
+   "sources": [
+    {
+     "url": "https://www.pitchonlev.org.il/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "yezer-needle-exchange",
+   "name_he": "יזה\"ר — תחנות החלפת מזרקים (האגודה לבריאות הציבור)",
+   "category": [
+    "food",
+    "clothes",
+    "health",
+    "legal"
+   ],
+   "primary": [
+    "clothes"
+   ],
+   "offers_he": "מזרקים סטריליים חינם (15 בכל יום חלוקה), איסוף מזרקים משומשים, קונדומים; בנוסף: הפניה וליווי לטיפול, אבחון וטיפול רפואי, אבחון נפשי, ייעוץ משפטי, וכן אספקת ביגוד, מזון ומקלחת.",
+   "eligibility_he": "מבוגרים המזריקים סמים; פנייה אנונימית לתחנות החלוקה.",
+   "contact": {
+    "url": "https://www.health.gov.il/Subjects/addictions/treatment/Pages/Sterile_syringes.aspx"
+   },
+   "area": "ארצי (מיקומי התחנות באתר משרד הבריאות — לא נקראו)",
+   "source_url": "https://www.kolzchut.org.il/he/יזה\"ר_-_תוכנית_להחלפת_מזרקים_לנפגעי_סמים",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מקלחת, כביסה וביגוד",
+   "needs_he": [
+    "מקלחת",
+    "ביגוד",
+    "מזון",
+    "צמצום נזקים",
+    "בדיקות",
+    "ייעוץ משפטי"
+   ],
+   "notes_he": "רשימת התחנות ושעותיהן לא אומתו (אתר משרד הבריאות חסום לגישה אוטומטית).",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/יזה\"ר_-_תוכנית_להחלפת_מזרקים_לנפגעי_סמים",
+     "kind": "wayback",
+     "snapshot": "2026-03-09",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260309095052/https://www.kolzchut.org.il/he/יזה\"ר_-_תוכנית_להחלפת_מזרקים_לנפגעי_סמים"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260309095052/https://www.kolzchut.org.il/he/יזה\"ר_-_תוכנית_להחלפת_מזרקים_לנפגעי_סמים",
+   "snapshot": "2026-03-09"
+  },
+  {
+   "id": "phr-open-clinic",
+   "name_he": "המרפאה הפתוחה — רופאים לזכויות אדם",
+   "category": [
+    "health",
+    "family"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "טיפול רפואי למי שאין לו גישה למערכת הבריאות הציבורית; רופא כללי/משפחה ורופאים מומחים (בתור מראש).",
+   "eligibility_he": "לפי האתר: פליטים ומבקשי מקלט שאין להם גישה למערכת הבריאות הציבורית. אזרח/ית ישראלי/ת דר/ת רחוב מבוטח/ת בקופת חולים — עדיף לפנות לקופה ולעו\"ס הרפואי.",
+   "contact": {
+    "phone": "03-5133120; 054-9169924",
+    "url": "https://www.phr.org.il/department/%d7%9e%d7%a8%d7%a4%d7%90%d7%94-%d7%a4%d7%aa%d7%95%d7%97%d7%94/",
+    "address": "ברוך ספיר 4, תל אביב-יפו (כפי שמופיע באתר)",
+    "hours": "רופא כללי/משפחה: א', ג', ד' ב-15:00; מומחים בתיאום"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.phr.org.il/department/%d7%9e%d7%a8%d7%a4%d7%90%d7%94-%d7%a4%d7%aa%d7%95%d7%97%d7%94/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [
+    "רופא משפחה",
+    "רופאים מומחים",
+    "אין ביטוח בריאות"
+   ],
+   "notes_he": "משרדי העמותה: דרור 9, ת\"א, 03-5133100. לפניות בנושא ביטוחי בריאות פרטיים: 054-3921848.",
+   "sources": [
+    {
+     "url": "https://www.phr.org.il/department/%d7%9e%d7%a8%d7%a4%d7%90%d7%94-%d7%a4%d7%aa%d7%95%d7%97%d7%94/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.phr.org.il/contact/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "moh-kol-habriut",
+   "name_he": "קול הבריאות — מוקד משרד הבריאות *5400",
+   "category": [
+    "health",
+    "addiction"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "מוקד המידע הטלפוני של משרד הבריאות (כולל מידע על שירותי טיפול בהתמכרויות).",
+   "eligibility_he": "כל פונה.",
+   "contact": {
+    "phone": "*5400",
+    "url": "https://www.gov.il/he/Departments/General/health_call_center"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [
+    "מידע בריאות",
+    "התמכרויות",
+    "זכויות בריאות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+     "kind": "wayback",
+     "snapshot": "2026-03-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260317123649/https://www.kolzchut.org.il/he/נפגעי_התמכרויות"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260317123649/https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+   "snapshot": "2026-03-17"
+  },
+  {
+   "id": "medical-social-workers",
+   "name_he": "עובדים סוציאליים רפואיים — בתי חולים וקופות חולים",
+   "category": [
+    "health",
+    "mental",
+    "benefits"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "בבתי חולים ובמרפאות הקופות: סיוע רגשי, התארגנות לקראת שחרור מאשפוז, גיוס משאבים משירותי הבריאות והרווחה, מיצוי זכויות בריאות, טיפול בנפגעי אלימות.",
+   "eligibility_he": "כל מי שזכאי לשירותי בריאות לפי חוק ביטוח בריאות ממלכתי; הפניה מרופא המשפחה או ישירות לפי אתר הקופה.",
+   "contact": {
+    "url": "https://www.kolzchut.org.il/he/טיפול_רגשי-סוציאלי_וסיוע_במיצוי_זכויות_במערכת_הבריאות"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/טיפול_רגשי-סוציאלי_וסיוע_במיצוי_זכויות_במערכת_הבריאות",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [
+    "מיצוי זכויות בריאות",
+    "שחרור מבית חולים",
+    "תמיכה רגשית"
+   ],
+   "notes_he": "חשוב לדרי רחוב שמשתחררים מאשפוז בלי כתובת — לבקש את העו\"ס הרפואי לפני השחרור.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/טיפול_רגשי-סוציאלי_וסיוע_במיצוי_זכויות_במערכת_הבריאות",
+     "kind": "wayback",
+     "snapshot": "2026-06-15",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260615140333/https://www.kolzchut.org.il/he/טיפול_רגשי-סוציאלי_וסיוע_במיצוי_זכויות_במערכת_הבריאות"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260615140333/https://www.kolzchut.org.il/he/טיפול_רגשי-סוציאלי_וסיוע_במיצוי_זכויות_במערכת_הבריאות",
+   "snapshot": "2026-06-15"
+  },
+  {
+   "id": "yad-sarah",
+   "name_he": "יד שרה — השאלת ציוד רפואי ושיקומי",
+   "category": [
+    "health",
+    "legal"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "כ-120 סניפים המשאילים ציוד רפואי ושיקומי; גם ייעוץ וסיוע משפטי חינם (יד ריבה) ושירותים נוספים.",
+   "eligibility_he": "כל פונה (תנאי השאלה — לבדוק בסניף).",
+   "contact": {
+    "phone": "*6444 (לפי צילום 2021)",
+    "url": "https://www.yadsarah.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.yadsarah.org.il/",
+   "source_kind": "wayback",
+   "verified": false,
+   "verification_status": "מקור ישן",
+   "verified_date": "2026-10-03",
+   "category_he": "השאלת ציוד",
+   "needs_he": [
+    "כיסא גלגלים",
+    "הליכון",
+    "ציוד רפואי",
+    "ייעוץ משפטי חינם"
+   ],
+   "notes_he": "רלוונטי גם למודול 'ספריית כלים' הקהילתי של השבט — מודל קיים של השאלה. לאמת טלפון עדכני.",
+   "sources": [
+    {
+     "url": "https://www.yadsarah.org.il/",
+     "kind": "wayback",
+     "snapshot": "2021-11-05",
+     "note": "האתר לא נגיש היום (שגיאת SSL); נקרא מצילום 2021"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20211105/https://www.yadsarah.org.il/",
+   "snapshot": "2021-11-05"
+  },
+  {
+   "id": "eran",
+   "name_he": "ער\"ן — עזרה ראשונה נפשית",
+   "category": [
+    "mental"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "עזרה ראשונה נפשית אנונימית בטלפון ובאונליין, לכלל הציבור, בכל גיל ובמגוון שפות.",
+   "eligibility_he": "כל אחד/ת, אנונימי וחינם.",
+   "contact": {
+    "phone": "1201",
+    "url": "https://www.eran.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.eran.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [
+    "תמיכה רגשית",
+    "משבר",
+    "בדידות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.eran.org.il/",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "sahar",
+   "name_he": "סה\"ר — סיוע והקשבה ברשת",
+   "category": [
+    "mental"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "צ'אט ווואטסאפ אנונימיים וחינמיים לתמיכה נפשית עם אדם אמיתי, 24/7; גם אפליקציה.",
+   "eligibility_he": "כל אחד/ת.",
+   "contact": {
+    "url": "https://sahar.org.il/",
+    "hours": "24/7"
+   },
+   "area": "ארצי (מקוון)",
+   "source_url": "https://sahar.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [
+    "תמיכה רגשית",
+    "צ'אט",
+    "משבר"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://sahar.org.il/",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "natal",
+   "name_he": "נט\"ל — סיוע נפשי לנפגעי טראומה",
+   "category": [
+    "mental"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "קו סיוע נפשי לנפגעי טראומה על רקע לאומי; טיפול ופעילות קהילתית.",
+   "eligibility_he": "נפגעי טראומה ובני משפחותיהם.",
+   "contact": {
+    "phone": "*3362",
+    "url": "https://www.natal.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.natal.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [
+    "טראומה",
+    "חרדה",
+    "תמיכה נפשית"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.natal.org.il/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "enosh",
+   "name_he": "אנוש — העמותה הישראלית לבריאות הנפש",
+   "category": [
+    "shelter",
+    "mental",
+    "work",
+    "family"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "רצף שירותי מניעה, טיפול ושיקום: נוער וצעירים, דיור והוסטלים, חלופות אשפוז, תעסוקה וקריירה, חברה וקהילה, משפחות; מרכז מידע וקו סיוע רגשי.",
+   "eligibility_he": "אנשים במצבים רגשיים שונים ומתמודדי נפש ובני משפחותיהם.",
+   "contact": {
+    "phone": "074-7556155",
+    "url": "https://www.enosh.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.enosh.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [
+    "מגבלה נפשית",
+    "דיור",
+    "תעסוקה",
+    "תמיכה למשפחות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.enosh.org.il/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "tlv-maayan",
+   "name_he": "מרכז מעיין לטיפול בטראומה מינית — עיריית תל אביב-יפו",
+   "category": [
+    "mental"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "טיפול למי שנפגעו מינית בעבר: טיפול פרטני, ליווי פסיכיאטרי, תיווך לשירותים סוציאליים, רפואיים ומשפטיים, קבוצות.",
+   "eligibility_he": "תושבי תל אביב-יפו וגבעתיים.",
+   "contact": {
+    "phone": "03-7242405",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/MaayanCenter.aspx",
+    "hours": "08:00–18:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/MaayanCenter.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [
+    "פגיעה מינית",
+    "טיפול פסיכולוגי",
+    "ליווי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/MaayanCenter.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "tlv-addiction-units",
+   "name_he": "היחידות העירוניות לטיפול בהתמכרויות — תל אביב-יפו",
+   "category": [
+    "addiction",
+    "family"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "חמש יחידות: איתור והפניה לגמילה פיזית, טיפול פרטני וקבוצתי ע\"י עו\"ס, התערבות משפחתית, ייעוץ תעסוקתי, קבוצות תמיכה.",
+   "eligibility_he": "גיל 18+, לפי אזור מגורים.",
+   "contact": {
+    "phone": "התלמי יהושע 16: 03-7246090 · יפת 74: 03-7246190 · הברזל 2: 03-7248383 · לובטקין צביה 10: 03-7246660 · שמחה 8: 03-7246670",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "גמילה",
+    "סמים",
+    "אלכוהול",
+    "הימורים",
+    "משפחה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "tlv-addiction-day-centers",
+   "name_he": "מרכזי יום להתמכרויות (גברים / נשים) — תל אביב-יפו",
+   "category": [
+    "food",
+    "addiction"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "מסגרת טיפול יומית אינטנסיבית (3 או 5 ימים בשבוע) אחרי גמילה פיזית: טיפול קבוצתי, חוגים, ארוחות, החזר הוצאות נסיעה.",
+   "eligibility_he": "18+, אחרי גמילה פיזית של שבועיים לפחות, בהפניית עו\"ס (לפי כל-זכות).",
+   "contact": {
+    "phone": "מרכז יום גברים, הברזל 2: 03-7248381 · מרכז יום נשים, התלמי יהושע 16: 03-7246091",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "טיפול יומי",
+    "קבוצות",
+    "ארוחות",
+    "החזר נסיעות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/מרכזי_יום_לנפגעי_התמכרויות",
+     "kind": "wayback",
+     "snapshot": "2026-06-15",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260615150528/https://www.kolzchut.org.il/he/מרכזי_יום_לנפגעי_התמכרויות"
+    }
+   ]
+  },
+  {
+   "id": "matra",
+   "name_he": "מטר\"א — מוקד טיפול ראשוני אבחוני לנפגעי התמכרויות",
+   "category": [
+    "shelter",
+    "health",
+    "addiction",
+    "work"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "אבחון משלים, ייעוץ סוציאלי, קבוצות (הכנה לתעסוקה, מיצוי זכויות, הורות, בריאות), שילוב בהשכלה, תעסוקה ודיור. בתל אביב: מוקד מטר\"א צעירים ומרכז מטר\"א להט\"ב.",
+   "eligibility_he": "מי שהפסיקו לצרוך, מתגוררים בקהילה במסגרת ביתית קבועה ומטופלים במקביל ביחידה אמבולטורית — כלומר לא שלב ראשון לדר רחוב פעיל.",
+   "contact": {
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-addictions-community-care-for-adults-affected-by-addictions?chapterIndex=2",
+    "hours": "א'–ה' 08:00–16:00"
+   },
+   "area": "ארצי + תל אביב",
+   "source_url": "https://www.kolzchut.org.il/he/מטר\"א_–_מוקד_טיפול_ראשוני_אבחוני_לנפגעי_התמכרויות",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "אבחון",
+    "תעסוקה",
+    "דיור",
+    "השלמת השכלה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/מטר\"א_–_מוקד_טיפול_ראשוני_אבחוני_לנפגעי_התמכרויות",
+     "kind": "wayback",
+     "snapshot": "2026-01-25",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260125062236/https://www.kolzchut.org.il/he/מטר\"א_–_מוקד_טיפול_ראשוני_אבחוני_לנפגעי_התמכרויות"
+    },
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Addictions.aspx",
+     "kind": "direct"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260125062236/https://www.kolzchut.org.il/he/מטר\"א_–_מוקד_טיפול_ראשוני_אבחוני_לנפגעי_התמכרויות",
+   "snapshot": "2026-01-25"
+  },
+  {
+   "id": "molsa-alcohol-detox-homeless",
+   "name_he": "גמילה מאלכוהול לדרי רחוב — משרד הרווחה",
+   "category": [
+    "addiction"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "דרי רחוב מכורים לאלכוהול יכולים לקבל אישור לגמילה פיזית במרכזים מיוחדים (אשפוזיות), ואחריה המשך שיקום במסגרות הרווחה.",
+   "eligibility_he": "דרי רחוב; דרך היחידה לדרי רחוב.",
+   "contact": {
+    "phone": "דרך היחידה לדרי רחוב",
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-homeless-rights?chapterIndex=3"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "גמילה מאלכוהול",
+    "אשפוזית"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "na-israel",
+   "name_he": "מכורים אנונימיים (NA) ישראל",
+   "category": [
+    "addiction"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "קבוצות עזרה הדדית ללא תשלום (12 צעדים) בעשרות יישובים, בבתי סוהר ובמוסדות גמילה.",
+   "eligibility_he": "כל מי שיש לו רקע של שימוש בסמים; ללא תנאים.",
+   "contact": {
+    "phone": "03-3747474 (קו מידע)",
+    "url": "https://www.naisrael.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.naisrael.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "קבוצת תמיכה",
+    "ניקיון מסמים"
+   ],
+   "notes_he": "בדף ההתמכרויות של העירייה מופיע קו מידע אחר: 077-2285500 — לבדוק איזה עדכני. נר-אנון (למשפחות): 050-5845886 (לפי אתר העירייה).",
+   "sources": [
+    {
+     "url": "https://www.naisrael.org.il/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/מכורים_אנונימיים_ישראל",
+     "kind": "wayback",
+     "snapshot": "2026-04-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260418003631/https://www.kolzchut.org.il/he/מכורים_אנונימיים_ישראל"
+    }
+   ]
+  },
+  {
+   "id": "efshar",
+   "name_he": "אפשר — טיפול בנפגעי אלכוהול והימורים",
+   "category": [
+    "addiction"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "מרכזי טיפול לנפגעי אלכוהול והימורים; 'סיכוי נוסף' — קו חם לנפגעי הימורים ובני משפחה.",
+   "eligibility_he": "נפגעי אלכוהול/הימורים ובני משפחותיהם.",
+   "contact": {
+    "phone": "קו חם 1-700-500-888; 02-6728905",
+    "url": "https://www.efshar.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/אפשר",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "אלכוהול",
+    "הימורים",
+    "קו חם"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/אפשר",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517062551/https://www.kolzchut.org.il/he/אפשר"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517062551/https://www.kolzchut.org.il/he/אפשר",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "malkishua",
+   "name_he": "נוה מלכישוע — כפר ומרכז לטיפול בהתמכרויות",
+   "category": [
+    "addiction"
+   ],
+   "primary": [
+    "addiction"
+   ],
+   "offers_he": "יחידת גמילה פיזית ('בראשית'), קהילות טיפוליות לבגירים, צעירים, נוער ונשים, הוסטלים.",
+   "eligibility_he": "נפגעי התמכרויות; קבלה לפי תנאי המסגרת.",
+   "contact": {
+    "phone": "קו חם 24/7: 052-3081133; אשפוזית: 04-6488224",
+    "url": "https://malkishua.org.il/"
+   },
+   "area": "גלבוע (ארצי)",
+   "source_url": "https://malkishua.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "התמכרויות",
+   "needs_he": [
+    "גמילה פיזית",
+    "קהילה טיפולית"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://malkishua.org.il/",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "moj-legal-aid",
+   "name_he": "הסיוע המשפטי — משרד המשפטים",
+   "category": [
+    "shelter",
+    "benefits",
+    "debts",
+    "legal",
+    "family"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "ייעוץ וייצוג חינם בתחומים אזרחיים: בתי דין לעבודה (כולל ביטוח לאומי), הוצאה לפועל (כולל שחרור ממאסר בהליכי הוצל\"פ), חדלות פירעון, דיור, משפחה, אשפוז כפוי, צרכנות, חובות מים וחשמל ועוד. שירות גם בערבית, רוסית ואמהרית.",
+   "eligibility_he": "לפי מבחן הכנסה ובחינת סיכויי ההליך; בחלק מהנושאים ללא מבחן הכנסה. נגבית אגרת השתתפות — אפשר לבקש פטור.",
+   "contact": {
+    "phone": "*6405; 073-3927788",
+    "url": "https://www.gov.il/he/departments/ministry_of_justice_legal_aid"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/הסיוע_המשפטי_במשרד_המשפטים",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "ייצוג משפטי",
+    "הוצאה לפועל",
+    "ביטוח לאומי",
+    "דיור",
+    "חדלות פירעון",
+    "משפחה",
+    "אשפוז כפוי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/הסיוע_המשפטי_במשרד_המשפטים",
+     "kind": "wayback",
+     "snapshot": "2026-05-11",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260511034048/https://www.kolzchut.org.il/he/הסיוע_המשפטי_במשרד_המשפטים"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_מטעם_משרד_המשפטים",
+     "kind": "wayback",
+     "snapshot": "2026-02-09",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260209183537/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_מטעם_משרד_המשפטים"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260511034048/https://www.kolzchut.org.il/he/הסיוע_המשפטי_במשרד_המשפטים",
+   "snapshot": "2026-05-11",
+   "start_here": true
+  },
+  {
+   "id": "acri",
+   "name_he": "האגודה לזכויות האזרח — פניות הציבור",
+   "category": [
+    "documents",
+    "legal"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "מידע על זכויות, ייעוץ לדרכי פעולה, ליווי מול הרשויות במקרים מתאימים, הפניה לארגונים מתמחים — חינם. מקבלים פניות מכל אדם בלי קשר למעמדו.",
+   "eligibility_he": "כל מי שזכויותיו נפגעו על ידי המדינה/הרשויות.",
+   "contact": {
+    "phone": "03-5608185 (מרכז ארצי, תל אביב); פנייה דרך טופס באתר",
+    "url": "https://www.acri.org.il/hotline"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.acri.org.il/hotline",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "פגיעה בזכויות",
+    "אפליה",
+    "משטרה",
+    "פקחים",
+    "מעמד"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/hotline",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "acri-homeless-rights-guide",
+   "name_he": "זכותון לחסרי ולחסרות בית — האגודה לזכויות האזרח",
+   "category": [
+    "shelter",
+    "health",
+    "legal"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "מדריך זכויות מקיף: אין איסור על לינה ברחוב או על קבצנות כשלעצמם; אסור לגרש חסר בית ממקום ציבורי סתם; אסור לפקחים להחרים ציוד אישי (למעט מקרים חריגים); זכויות בחדר מיון; גמילה על חשבון המדינה; סל שיקום ועוד.",
+   "eligibility_he": "מידע לכל אחד.",
+   "contact": {
+    "url": "https://www.acri.org.il/post/__120"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.acri.org.il/post/__120",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "מקור ישן",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "זכויות ברחוב",
+    "משטרה",
+    "החרמת ציוד",
+    "בריאות",
+    "דיור"
+   ],
+   "notes_he": "עקרונות הזכויות שימושיים; פרטי קשר וסכומים — לאמת. הגגונים של לשובע מפנים אליו מאתרם.",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/post/__120",
+     "kind": "direct",
+     "note": "הדף נקרא היום; המסמך עצמו מ-2013 — טלפונים, סכומים וכתובות שבו עלולים להיות לא עדכניים"
+    }
+   ]
+  },
+  {
+   "id": "tau-law-clinics",
+   "name_he": "הקליניקות המשפטיות — אוניברסיטת תל אביב",
+   "category": [
+    "legal",
+    "work"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "ייצוג משפטי 'לכל אדם ללא הבדל ... יכולת כלכלית': בין היתר הקליניקה לזכויות אדם, לזכויות בעבודה, לזכויות פליטים, לזכויות בהליך הפלילי, לניצולי שואה ואנשים בזקנה.",
+   "eligibility_he": "לפי קבלת התיק בכל קליניקה.",
+   "contact": {
+    "url": "https://law.tau.ac.il/clinics"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://law.tau.ac.il/clinics",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "ייצוג משפטי",
+    "זכויות אדם",
+    "זכויות בעבודה",
+    "פליטים",
+    "הליך פלילי"
+   ],
+   "notes_he": "פרטי פנייה לכל קליניקה — באתר; לא נאספו.",
+   "sources": [
+    {
+     "url": "https://law.tau.ac.il/clinics",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "halev",
+   "name_he": "הל\"ב — התנועה למלחמה בעוני (סיוע משפטי בהתנדבות)",
+   "category": [
+    "shelter",
+    "mental",
+    "debts",
+    "legal",
+    "work"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "סיוע משפטי חינם ע\"י סטודנטים מתנדבים: הוצאה לפועל (טפסים, מכתבים לרשם), דיור ציבורי וסיוע בשכר דירה, דיני עבודה, סיוע לפגועי נפש.",
+   "eligibility_he": "מעוטי אמצעים.",
+   "contact": {
+    "phone": "פנייה דרך טופס באתר",
+    "url": "https://halev.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://halev.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [
+    "הוצאה לפועל",
+    "דיור ציבורי",
+    "דיני עבודה",
+    "פגועי נפש"
+   ],
+   "notes_he": "באתר עדיין הודעת קורונה — פעילות שוטפת עדכנית לא אומתה; כל-זכות (2026-05) עדיין מפנה אליה.",
+   "sources": [
+    {
+     "url": "https://halev.org.il/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+     "kind": "wayback",
+     "snapshot": "2026-05-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי"
+    }
+   ]
+  },
+  {
+   "id": "btl-income-support",
+   "name_he": "ביטוח לאומי — הבטחת הכנסה בהסדר מיוחד לדרי רחוב",
+   "category": [
+    "benefits",
+    "work"
+   ],
+   "primary": [
+    "benefits"
+   ],
+   "offers_he": "גמלת הבטחת הכנסה בהסדר מיוחד לדרי רחוב (בהתאם לתנאים). דר רחוב שמשתלב בתוכנית טיפולית-שיקומית פטור מהתייצבות בלשכת התעסוקה.",
+   "eligibility_he": "דרי רחוב לפי הגדרת משרד הרווחה ובהתאם לתנאי הגמלה.",
+   "contact": {
+    "phone": "*6050",
+    "url": "https://www.btl.gov.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "קצבאות ומיצוי זכויות",
+   "needs_he": [
+    "קצבה",
+    "הכנסה",
+    "פטור מלשכת תעסוקה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "btl-yad-mechavenet",
+   "name_he": "יד מכוונת — ייעוץ חינם לוועדות רפואיות (ביטוח לאומי)",
+   "category": [
+    "health",
+    "benefits"
+   ],
+   "primary": [
+    "benefits"
+   ],
+   "offers_he": "ייעוץ והכוונה חינם לקראת ועדות רפואיות של הביטוח הלאומי (למשל תביעת נכות).",
+   "eligibility_he": "מי שמגיש תביעה הכרוכה בוועדה רפואית.",
+   "contact": {
+    "phone": "*2496",
+    "url": "https://www.btl.gov.il/snifim/Pages/yadMechavenet1.aspx"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "קצבאות ומיצוי זכויות",
+   "needs_he": [
+    "נכות",
+    "ועדה רפואית"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+     "kind": "wayback",
+     "snapshot": "2026-03-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260317123649/https://www.kolzchut.org.il/he/נפגעי_התמכרויות"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260317123649/https://www.kolzchut.org.il/he/נפגעי_התמכרויות",
+   "snapshot": "2026-03-17"
+  },
+  {
+   "id": "aliyah-homeless-olim",
+   "name_he": "דמי קיום וביטוח רפואי לדרי רחוב עולים חדשים — משרד העלייה והקליטה",
+   "category": [
+    "health",
+    "benefits"
+   ],
+   "primary": [
+    "benefits"
+   ],
+   "offers_he": "דמי קיום וביטוח רפואי לדרי רחוב שהם עולים חדשים בשנתם הראשונה בארץ, דרך היחידה לשירותי רווחה במשרד העלייה והקליטה.",
+   "eligibility_he": "עולים חדשים בשנה הראשונה שהם דרי רחוב.",
+   "contact": {
+    "url": "https://www.gov.il/he/Departments/Guides/molsa-homeless-rights?chapterIndex=4"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "קצבאות ומיצוי זכויות",
+   "needs_he": [
+    "עולים חדשים",
+    "דמי קיום",
+    "ביטוח רפואי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "paamonim",
+   "name_he": "פעמונים — ייעוץ וליווי כלכלי חינם",
+   "category": [
+    "debts"
+   ],
+   "primary": [
+    "debts"
+   ],
+   "offers_he": "פגישות מיפוי כלכלי, בניית תקציב, ליווי כלכלי אישי או קבוצתי לכמה חודשים; 'פעמונים עונים' — שאלות בלי לחשוף פרטים.",
+   "eligibility_he": "משפחות ויחידים; פנייה בטופס מקוון.",
+   "contact": {
+    "phone": "03-9127100 (כל-זכות, צילום 25.01.2026) · וואטסאפ 03-9127182 (אתר פעמונים, 03.10.2026)",
+    "url": "https://www.paamonim.org/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/פעמונים",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "חובות וכלכלת בית",
+   "needs_he": [
+    "חובות",
+    "תקציב",
+    "ליווי כלכלי"
+   ],
+   "notes_he": "03-9127100 מופיע לפי כל-זכות (צילום ארכיון 25.01.2026) ולא מופיע באתר פעמונים; באתר (03.10.2026) מופיע כפתור וואטסאפ 03-9127182. מתאים יותר למי שיש לו הכנסה כלשהי; לחובות בהוצאה לפועל — הסיוע המשפטי / הל\"ב / שי\"ל.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/פעמונים",
+     "kind": "wayback",
+     "snapshot": "2026-01-25",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260125100343/https://www.kolzchut.org.il/he/פעמונים"
+    },
+    {
+     "url": "https://www.paamonim.org/",
+     "kind": "direct",
+     "note": "דף הבית (03.10.2026): כפתור וואטסאפ 03-9127182; המספר 03-9127100 לא מופיע; /contact/ מחזיר 404"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260125100343/https://www.kolzchut.org.il/he/פעמונים",
+   "snapshot": "2026-01-25"
+  },
+  {
+   "id": "tlv-hizdamnut",
+   "name_he": "מרכז הזדמנות — מתקדמים לעבודה (תל אביב-יפו)",
+   "category": [
+    "work"
+   ],
+   "primary": [
+    "work"
+   ],
+   "offers_he": "ליווי תעסוקתי, סדנאות (קורות חיים, ראיונות), קשרי מעסיקים, מימון/סיוע בהכשרות, מחשבים בסיסיים, התנהלות פיננסית, עברית לתעסוקה; גם בזום/טלפון. ללא עלות.",
+   "eligibility_he": "תושבי העיר והאזור בגילאי 18–75.",
+   "contact": {
+    "phone": "03-7248410; 052-4073787",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/WorkCenter.aspx",
+    "address": "בלפור 14",
+    "hours": "מענה טלפוני 09:00–17:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/WorkCenter.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "תעסוקה",
+   "needs_he": [
+    "עבודה",
+    "קורות חיים",
+    "הכשרה מקצועית",
+    "ליווי תעסוקתי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/WorkCenter.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "taasuka",
+   "name_he": "שירות התעסוקה",
+   "category": [
+    "work"
+   ],
+   "primary": [
+    "work"
+   ],
+   "offers_he": "שירות התעסוקה הממשלתי.",
+   "eligibility_he": "כל דורש עבודה.",
+   "contact": {
+    "phone": "*9687",
+    "url": "https://www.taasuka.gov.il/he"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "תעסוקה",
+   "needs_he": [
+    "חיפוש עבודה",
+    "התייצבות",
+    "הכשרה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "tlv-saleet",
+   "name_he": "סלעית — תוכנית לנשים על רצף הזנות (עיריית ת\"א + משרד הרווחה)",
+   "category": [
+    "shelter",
+    "clothes",
+    "family"
+   ],
+   "primary": [
+    "family"
+   ],
+   "offers_he": "דירת חירום פתוחה 24/7 כל השנה לנשים בקצה רצף הזנות ובהתמכרות פעילה — לינה, ארוחות חמות, מקלחת, כביסה, סיוע רפואי ונפשי, ליווי סוציאלי ומיצוי זכויות, בלי חובה להתחייב לטיפול. גם טיפול בקהילה (מרכז יום וערב) והוסטל טיפולי.",
+   "eligibility_he": "נשים 18+ על רצף הזנות או שהיו בו; ההוסטל מגיל 21.",
+   "contact": {
+    "phone": "דירת החירום: 1-800-200-690; טיפול בקהילה: 050-8366972",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Saleet.aspx"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Saleet.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "נשים, זנות ואלימות",
+   "needs_he": [
+    "דירת חירום",
+    "לינה",
+    "מקלחת",
+    "כביסה",
+    "טיפול",
+    "הוסטל"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Saleet.aspx",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/WomensAid.aspx",
+     "kind": "direct"
+    }
+   ],
+   "start_here": true
+  },
+  {
+   "id": "tlv-or-nur",
+   "name_he": "אור-נור — מרכז עירוני ליחסים בטוחים במשפחה ולטיפול באלימות",
+   "category": [
+    "family"
+   ],
+   "primary": [
+    "family"
+   ],
+   "offers_he": "טיפולים פרטניים וקבוצתיים, טיפול בילדים, אבחון והערכת מסוכנות; חסוי; טיפול מסובסד לשנה.",
+   "eligibility_he": "תושבי תל אביב-יפו.",
+   "contact": {
+    "phone": "03-7246565",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/OrNur.aspx",
+    "address": "הרצל 158",
+    "hours": "א'–ה' 08:00–15:00 (מענה אנושי)"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/OrNur.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "נשים, זנות ואלימות",
+   "needs_he": [
+    "אלימות במשפחה",
+    "טיפול",
+    "הערכת מסוכנות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/OrNur.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "elem",
+   "name_he": "עלם — נוער וצעירים במצבי סיכון",
+   "category": [
+    "shelter"
+   ],
+   "primary": [
+    "shelter"
+   ],
+   "offers_he": "איתור, ליווי וטיפול בבני נוער וצעירים במצבי סיכון — ברחוב, בפארקים ובמרחב הדיגיטלי, כולל מצבי חסרות בית וזנות. אתר העירייה מפנה אליה בני נוער בסיכון.",
+   "eligibility_he": "בני נוער, צעירים וצעירות במצבי סיכון.",
+   "contact": {
+    "phone": "03-7686666",
+    "url": "https://www.elem.org.il/",
+    "address": "מטה: הירקון 35, בני ברק"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.elem.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "צעירים ונוער",
+   "needs_he": [
+    "נוער בסיכון",
+    "צעירים חסרי בית",
+    "רחוב"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.elem.org.il/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Homeless.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "rasha",
+   "name_he": "הרשות לשיקום האסיר (רש\"א)",
+   "category": [
+    "shelter",
+    "benefits",
+    "work",
+    "family"
+   ],
+   "primary": [
+    "work",
+    "benefits"
+   ],
+   "offers_he": "תוכניות שיקום לקראת שחרור, שיקום בקהילה ובהוסטלים, ליווי תעסוקתי, סיוע למשפחות. מוקד 'רש\"אקול'.",
+   "eligibility_he": "אסירים ומשתחררים. (אסיר משתחרר ככלל אינו מוגדר 'דר רחוב' לפי משרד הרווחה.)",
+   "contact": {
+    "phone": "*2775; וואטסאפ 02-5420735 (24/7 למקרים דחופים)",
+    "url": "http://www.pra.co.il"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/הרשות_לשיקום_האסיר_(רש\"א)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "אסירים משתחררים",
+   "needs_he": [
+    "שחרור ממאסר",
+    "הוסטל",
+    "תעסוקה",
+    "משפחה"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/הרשות_לשיקום_האסיר_(רש\"א)",
+     "kind": "wayback",
+     "snapshot": "2026-03-16",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260316115524/https://www.kolzchut.org.il/he/הרשות_לשיקום_האסיר_(רש\"א)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260316115524/https://www.kolzchut.org.il/he/הרשות_לשיקום_האסיר_(רש\"א)",
+   "snapshot": "2026-03-16"
+  },
+  {
+   "id": "tlv-mesila",
+   "name_he": "מסיל\"ה — מרכז סיוע ומידע לקהילה חסרת המעמד (עיריית ת\"א)",
+   "category": [
+    "benefits",
+    "legal",
+    "work"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "הסברה, תיווך, סנגוריה, מימוש זכויות, סיוע הומניטרי, טיפול אישי ומשפחתי, ליווי מול שירותי חינוך, בריאות ורווחה; מרכז ארצי לשורדי סחר בבני אדם.",
+   "eligibility_he": "מבקשי מקלט, מהגרי עבודה וחסרי מעמד בתל אביב-יפו.",
+   "contact": {
+    "phone": "03-7248238",
+    "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Mesila.aspx",
+    "address": "וולפסון 66",
+    "hours": "קבלת קהל: א' 15:00–18:00, ד' 09:00–12:00"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Mesila.aspx",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מבקשי מקלט וחסרי מעמד",
+   "needs_he": [
+    "מבקשי מקלט",
+    "מהגרי עבודה",
+    "מיצוי זכויות",
+    "סיוע הומניטרי"
+   ],
+   "notes_he": "תיבת 'פרטי קשר' באתר העירייה נטענת דינמית — נקראה בדפדפן אמיתי ב-03.10.2026: טלפון 03-7248238, פקס 03-7241982, וולפסון 66; קבלת קהל א' 15:00–18:00, ד' 09:00–12:00; מענה טלפוני א', ג' 15:00–18:00, ב', ד' 09:00–12:00, ה' סגור.",
+   "sources": [
+    {
+     "url": "https://www.tel-aviv.gov.il/Residents/HealthAndSocial/Pages/Mesila.aspx",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "kav-laoved",
+   "name_he": "קו לעובד",
+   "category": [
+    "legal",
+    "work"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "מידע וסיוע בזכויות עובדים, כולל עובדים מהגרים ופלסטינים; מידע עדכני לעבודה בשעת חירום.",
+   "eligibility_he": "עובדים (בכל מעמד).",
+   "contact": {
+    "url": "https://www.kavlaoved.org.il/"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kavlaoved.org.il/",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מבקשי מקלט וחסרי מעמד",
+   "needs_he": [
+    "זכויות עובדים",
+    "שכר",
+    "מהגרי עבודה"
+   ],
+   "notes_he": "טלפון לא אומת.",
+   "sources": [
+    {
+     "url": "https://www.kavlaoved.org.il/",
+     "kind": "direct"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+     "kind": "wayback",
+     "snapshot": "2026-05-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי"
+    }
+   ]
+  },
+  {
+   "id": "molsa-118",
+   "name_he": "מוקד משרד הרווחה 118",
+   "category": [
+    "mental",
+    "addiction",
+    "debts",
+    "other"
+   ],
+   "primary": [
+    "other"
+   ],
+   "offers_he": "מידע וסיוע ראשוני בנושאי רווחה ומיצוי זכויות, 24/7, בשיחת חינם; בעברית, ערבית, אמהרית, רוסית, אנגלית וצרפתית.",
+   "eligibility_he": "כל פונה.",
+   "contact": {
+    "phone": "118 (חינם); הודעות טקסט: 050-2270118",
+    "url": "https://www.gov.il/he/departments/general/molsa-118",
+    "hours": "24/7 כל השנה (למעט יום כיפור)"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/מוקד_משרד_הרווחה",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מוקדים ממשלתיים",
+   "needs_he": [
+    "מידע רווחה",
+    "משבר",
+    "אלימות",
+    "מצוקה כלכלית",
+    "התמכרויות"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/מוקד_משרד_הרווחה",
+     "kind": "wayback",
+     "snapshot": "2026-02-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260218023339/https://www.kolzchut.org.il/he/מוקד_משרד_הרווחה"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260218023339/https://www.kolzchut.org.il/he/מוקד_משרד_הרווחה",
+   "snapshot": "2026-02-18",
+   "start_here": true
+  },
+  {
+   "id": "gov-1299",
+   "name_he": "מוקד מענה ממשלתי מרכזי 1299",
+   "category": [
+    "other"
+   ],
+   "primary": [
+    "other"
+   ],
+   "offers_he": "מוקד הכוונה ממשלתי מרכזי.",
+   "eligibility_he": "כל פונה.",
+   "contact": {
+    "phone": "1299",
+    "url": "https://www.gov.il/he/Departments/central-government-call-center"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מוקדים ממשלתיים",
+   "needs_he": [
+    "הכוונה למשרד ממשלתי"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "tal-lasova",
+   "name_he": "טל-לשובע — חבילה סלולרית מוזלת",
+   "category": [
+    "other"
+   ],
+   "primary": [
+    "other"
+   ],
+   "offers_he": "מנוי סלולרי לאנשים בלי כרטיס אשראי או הוראת קבע: 100 ₪ לארבעה חודשים (25 ₪ לחודש) במזומן; אפשר גם לתרום מנוי למישהו.",
+   "eligibility_he": "נזקקים ללא אמצעי תשלום רגילים.",
+   "contact": {
+    "phone": "03-3731661 (משרד העמותה)",
+    "url": "https://www.lasova.org.il/projects"
+   },
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.lasova.org.il/projects",
+   "source_kind": "direct",
+   "verified": true,
+   "verification_status": "אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "טלפון וקישוריות",
+   "needs_he": [
+    "טלפון",
+    "סלולר",
+    "קשר עם גורמי טיפול"
+   ],
+   "notes_he": "קריטי לשבט: בלי טלפון אין קשר עם העו\"ס, הסיוע המשפטי או הסוכן. מועמד טבעי לתרומה.",
+   "sources": [
+    {
+     "url": "https://www.lasova.org.il/projects",
+     "kind": "direct"
+    }
+   ]
+  },
+  {
+   "id": "kol-zchut",
+   "name_he": "כל-זכות — אתר הזכויות",
+   "category": [
+    "other"
+   ],
+   "primary": [
+    "other"
+   ],
+   "offers_he": "מידע מקיף ועדכני על זכויות; ראו במיוחד 'סיוע לדרי רחוב' ו'סיוע משפטי חינם או בתשלום סמלי'. גם בערבית וברוסית.",
+   "eligibility_he": "פתוח לכולם.",
+   "contact": {
+    "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מאגרי מידע",
+   "needs_he": [
+    "מידע זכויות"
+   ],
+   "notes_he": "האתר חוסם גישה אוטומטית — בדפדפן רגיל הוא פתוח.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "kol-sherut",
+   "name_he": "כל שירות — מאגר שירותי סיוע",
+   "category": [
+    "other"
+   ],
+   "primary": [
+    "other"
+   ],
+   "offers_he": "מאגר שירותי סיוע לפי מצב ואוכלוסייה, כולל עמוד 'שירותים עבור מחוסרי בית'. מקור טוב להרחבת המפה הזו.",
+   "eligibility_he": "פתוח לכולם.",
+   "contact": {
+    "url": "https://www.kolsherut.org.il/homeless"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolsherut.org.il/homeless",
+   "source_kind": "wayback",
+   "verified": true,
+   "verification_status": "אומת (צילום ארכיון)",
+   "verified_date": "2026-10-03",
+   "category_he": "מאגרי מידע",
+   "needs_he": [
+    "חיפוש שירותים"
+   ],
+   "notes_he": "",
+   "sources": [
+    {
+     "url": "https://www.kolsherut.org.il/homeless",
+     "kind": "wayback",
+     "snapshot": "2025-06-23",
+     "note": "מקושר מכל-זכות; האתר עצמו חוסם גישה אוטומטית"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20250623/https://www.kolsherut.org.il/homeless",
+   "snapshot": "2025-06-23"
+  },
+  {
+   "id": "LEAD-yedid",
+   "name_he": "ידיד — מרכזי זכויות בקהילה",
+   "category": [
+    "legal"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "לשעבר מרכזי זכויות.",
+   "eligibility_he": "—",
+   "contact": {},
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/ידיד",
+   "source_kind": "wayback",
+   "verified": false,
+   "verification_status": "לא להפנות",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [],
+   "notes_he": "לפי כל-זכות: ב-01.08.2019 מונה לעמותה מפרק זמני; הדף הועבר לארכיון. הדומיין yedid.org.il משמש היום אתר שיעורים פרטיים — לא להפנות.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/ידיד",
+     "kind": "wayback",
+     "snapshot": "2025-06-25",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20250625090036/https://www.kolzchut.org.il/he/ידיד"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20250625090036/https://www.kolzchut.org.il/he/ידיד",
+   "snapshot": "2025-06-25",
+   "do_not_refer": true
+  },
+  {
+   "id": "LEAD-sachar-mitzva",
+   "name_he": "שכר מצווה — סיוע משפטי בהתנדבות למעוטי אמצעים (לשכת עורכי הדין)",
+   "category": [
+    "legal"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "מופיע ברשימת כל-זכות (2026-05) בתחומי דיור, הוצאה לפועל, חדלות פירעון ואלימות במשפחה.",
+   "eligibility_he": "מעוטי אמצעים (תנאים לא אומתו).",
+   "contact": {},
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+   "source_kind": "wayback",
+   "verified": false,
+   "verification_status": "לא אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [],
+   "notes_he": "קיום מוזכר במקור; פרטי פנייה ותנאים לא אומתו.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+     "kind": "wayback",
+     "snapshot": "2026-05-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+   "snapshot": "2026-05-18"
+  },
+  {
+   "id": "LEAD-public-defender",
+   "name_he": "הסנגוריה הציבורית",
+   "category": [
+    "legal"
+   ],
+   "primary": [
+    "legal"
+   ],
+   "offers_he": "ייצוג בהליך פלילי (וגם באשפוז כפוי בצו בית משפט לפי זכותון 2013).",
+   "eligibility_he": "לפי החוק.",
+   "contact": {
+    "url": "https://www.gov.il/he/departments/public_defense"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+   "source_kind": "wayback",
+   "verified": false,
+   "verification_status": "לא אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "סיוע משפטי וזכויות",
+   "needs_he": [],
+   "notes_he": "gov.il חסום לגישה אוטומטית; פרטי פנייה לא אומתו.",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+     "kind": "wayback",
+     "snapshot": "2026-05-18",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260518071826/https://www.kolzchut.org.il/he/סיוע_משפטי_חינם_או_בתשלום_סמלי",
+   "snapshot": "2026-05-18"
+  },
+  {
+   "id": "LEAD-levinsky-clinic",
+   "name_he": "מרפאת לוינסקי (משרד הבריאות) — בדיקות וטיפול במחלות מין, אנונימי וחינם",
+   "category": [
+    "health"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "לפי זכותון 2013: בדיקה וטיפול אנונימיים וחינם; תחנה מרכזית חדשה, קומה 5.",
+   "eligibility_he": "כל פונה (לפי 2013).",
+   "contact": {},
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.acri.org.il/post/__120",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "מקור ישן",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [],
+   "notes_he": "מיקום וטלפון לא אומתו עדכנית.",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/post/__120",
+     "kind": "direct",
+     "note": "זכותון 2013"
+    }
+   ]
+  },
+  {
+   "id": "LEAD-terem-refugees",
+   "name_he": "טרם — מרפאה לפליטים (תחנה מרכזית)",
+   "category": [
+    "health"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "לפי זכותון 2013: רפואה דחופה, בדיקות, הדמיה, גניקולוגיה.",
+   "eligibility_he": "פליטים / מבקשי מקלט (לפי 2013).",
+   "contact": {},
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.acri.org.il/post/__120",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "מקור ישן",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [],
+   "notes_he": "לא אומת שהמרפאה עדיין פועלת.",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/post/__120",
+     "kind": "direct",
+     "note": "זכותון 2013"
+    }
+   ]
+  },
+  {
+   "id": "LEAD-sal-shikum",
+   "name_he": "סל שיקום לנפגעי נפש (משרד הבריאות)",
+   "category": [
+    "mental"
+   ],
+   "primary": [
+    "mental"
+   ],
+   "offers_he": "לפי זכותון 2013: דיור, תעסוקה מוגנת, מטפל מרכזי, טיפולי שיניים, ציוד בסיסי, חונכות — למי שיש לו 40%+ נכות נפשית מביטוח לאומי, בני 18–65.",
+   "eligibility_he": "לפי 2013 — לאמת.",
+   "contact": {},
+   "area": "ארצי",
+   "source_url": "https://www.acri.org.il/post/__120",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "מקור ישן",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות הנפש ותמיכה רגשית",
+   "needs_he": [],
+   "notes_he": "ייתכן שהתנאים השתנו — לאמת מול משרד הבריאות / אנוש.",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/post/__120",
+     "kind": "direct",
+     "note": "זכותון 2013"
+    }
+   ]
+  },
+  {
+   "id": "LEAD-id-documents",
+   "name_he": "הוצאת תעודת זהות / תמצית רישום (רשות האוכלוסין) — דרך היחידה לדרי רחוב",
+   "category": [
+    "benefits"
+   ],
+   "primary": [
+    "benefits"
+   ],
+   "offers_he": "לפי זכותון האגודה לזכויות האזרח: היחידה לדרי רחוב מסייעת בהוצאת תעודת זהות, פתיחת חשבון בנק וקבלה לקופת חולים. ת\"ז / תמצית רישום נדרשים לסיוע בשכר דירה.",
+   "eligibility_he": "—",
+   "contact": {
+    "phone": "דרך היחידה לדרי רחוב"
+   },
+   "area": "ארצי",
+   "source_url": "https://www.acri.org.il/post/__120",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "לא אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "קצבאות ומיצוי זכויות",
+   "needs_he": [],
+   "notes_he": "אגרות ופטורים להנפקת ת\"ז לדרי רחוב — לא אומתו (gov.il חסום לגישה אוטומטית).",
+   "sources": [
+    {
+     "url": "https://www.acri.org.il/post/__120",
+     "kind": "direct",
+     "note": "זכותון 2013"
+    },
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517215017/https://www.kolzchut.org.il/he/סיוע_בשכר_דירה_לדרי_רחוב"
+    }
+   ]
+  },
+  {
+   "id": "LEAD-laundry",
+   "name_he": "שירות כביסה חברתי / מכבסה ניידת לדרי רחוב בתל אביב",
+   "category": [
+    "clothes"
+   ],
+   "primary": [
+    "clothes"
+   ],
+   "offers_he": "לא נמצא שירות ייעודי מאומת. כביסה ניתנת בתוך הגגונים (לפי מדריך משרד הרווחה), בדירת החירום של סלעית ובתחנות יזה\"ר.",
+   "eligibility_he": "—",
+   "contact": {},
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "source_kind": "wayback",
+   "verified": false,
+   "verification_status": "לא אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "מקלחת, כביסה וביגוד",
+   "needs_he": [],
+   "notes_he": "פער: לסבב הסדינים היומי בסוכות כנראה יידרש הסכם עם מכבסה מסחרית (תרומה/הנחה).",
+   "sources": [
+    {
+     "url": "https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+     "kind": "wayback",
+     "snapshot": "2026-05-17",
+     "note": "נקרא מצילום ארכיון: https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)"
+    }
+   ],
+   "archive_url": "https://web.archive.org/web/20260517064916/https://www.kolzchut.org.il/he/סיוע_לדרי_רחוב_(מבוגרים_חסרי_בית,_הומלסים)",
+   "snapshot": "2026-05-17"
+  },
+  {
+   "id": "LEAD-mobile-clinic",
+   "name_he": "מרפאה ניידת לדרי רחוב בתל אביב",
+   "category": [
+    "health"
+   ],
+   "primary": [
+    "health"
+   ],
+   "offers_he": "לא נמצא מקור מאומת למרפאה ניידת ייעודית לדרי רחוב בתל אביב. המרפאה הניידת של רופאים לזכויות אדם פועלת בשטחים — לא רלוונטית.",
+   "eligibility_he": "—",
+   "contact": {},
+   "area": "תל אביב-יפו",
+   "source_url": "https://www.phr.org.il/",
+   "source_kind": "direct",
+   "verified": false,
+   "verification_status": "לא אומת",
+   "verified_date": "2026-10-03",
+   "category_he": "בריאות",
+   "needs_he": [],
+   "notes_he": "לברר מול היחידה לדרי רחוב.",
+   "sources": [
+    {
+     "url": "https://www.phr.org.il/",
+     "kind": "direct"
+    }
+   ]
+  }
+ ]
+}

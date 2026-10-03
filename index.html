@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data: blob:; font-src 'self'; connect-src 'self'; media-src 'self'; object-src 'none'; base-uri 'none'; form-action 'none'; worker-src 'self'; manifest-src 'self'">
+  <meta name="referrer" content="no-referrer">
+  <title>השבט האנושי</title>
+  <meta name="description" content="רישום צרכים ומשאלות בכבוד ובהסכמה — הכל נשמר רק בטלפון.">
+  <meta name="theme-color" content="#2F5D46" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14201A" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="icon" href="icons/logo.svg" type="image/svg+xml">
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="השבט האנושי">
+  <link rel="stylesheet" href="css/fonts.css">
+  <link rel="stylesheet" href="css/app.css">
+  <script type="module" src="js/app.js"></script>
+</head>
+<body>
+  <a class="skip" href="#view">דילוג לתוכן</a>
+  <header class="top">
+    <a class="brand" href="#/" aria-label="השבט האנושי — לדף הבית">
+      <img src="icons/logo.svg" alt="" width="34" height="34">
+      <span>השבט האנושי</span>
+    </a>
+    <span class="local-pill" title="אין שרת. שום דבר לא נשלח לאינטרנט.">🔒 רק בטלפון הזה</span>
+  </header>
+  <div id="banner"></div>
+  <main id="view" tabindex="-1">
+    <noscript><p class="card">האפליקציה צריכה JavaScript כדי לעבוד.</p></noscript>
+  </main>
+  <nav class="tabs" aria-label="ניווט ראשי">
+    <a href="#/" data-tab="home"><span aria-hidden="true">👥</span>אנשים</a>
+    <a href="#/needs" data-tab="needs"><span aria-hidden="true">📋</span>צרכים</a>
+    <a href="#/shelters" data-tab="shelters"><span aria-hidden="true">🛖</span>סוכות</a>
+    <a href="#/more" data-tab="more"><span aria-hidden="true">💾</span>גיבוי ועוד</a>
+  </nav>
+  <div id="toast" role="status" aria-live="polite"></div>
+  <dialog id="dlg"></dialog>
+</body>
+</html>
